@@ -1,0 +1,162 @@
+body {
+  line-height: 1.8;
+  /* background: url(../images/bg/単色ピンク.png); */
+  background-color: #a015009a;
+  /* font-family: 'Hachi Maru Pop', cursive; */
+}
+
+main {
+  width: 980px;
+  margin: 0 auto;
+  background: #fff;
+}
+
+header {
+  background-color: #a01400;
+  /* margin-bottom: 30px; */
+  /* background: url(../images/wallpaper/パンダの大群\ 2のコピー.jpeg);
+  color: #fff; */
+}
+
+.ldh_logo {
+  margin-bottom: -70px;
+  /* text-align: left; */
+  padding-left: 60px;
+  /* border-radius: 100%; */
+}
+
+header p {
+  text-align: left;
+  margin-bottom: 5em;
+}
+
+h1 {
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 1em;
+  color: black;
+}
+
+nav {
+  margin-bottom: 2em;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul li {
+  width: 160px;
+  text-align: center;
+}
+/* リンクの設定 */
+a:link {
+  color: #3d8304;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #3d8304;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #ec380b;
+  text-decoration: none;
+}
+
+article {
+  width: 780px;
+  margin: 0 auto;
+}
+
+.backcolor_01 {
+  background-color: #a01400;
+}
+
+h2 {
+  background: #000000;
+  padding: 15px;
+  color: #fff;
+  /* border-radius: 40px; */
+  text-align: center;
+  margin-bottom: 1em;
+  width: 0 auto;
+  margin: 0 auto;
+}
+/* h2 {
+  background: #3d8304;
+  padding: 15px;
+  color: #fff;
+  border-radius: 20px;
+  text-align: center;
+  margin-bottom: 1em;
+} */
+
+dl {
+  margin-bottom: 1.5em;
+}
+
+dt {
+  font-weight: bold;
+}
+
+.caption_1 {
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+.caption_2 {
+  background-color: #a01400;
+  text-align: center;
+  color: #fff;
+  /* margin-bottom: 15px; */
+}
+
+.caption {
+  background-color: #a01400;
+  color: #fff;
+  /* margin-bottom: 2em; */
+}
+
+/* 説明文の部分に下側の余白を入れるためのクラス */
+
+footer {
+  background: #000000;
+  padding: 15px;
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+}
+
+#book{
+  font-family: 'Noto Serif JP', serif;
+}
+
+
+#book{
+  font-family: 'Noto Serif JP', serif;
+  /* text-align: center; */
+}
+
+/* .aaa {
+  text-align: center;
+}
+.bbb {
+  text-align: center;
+} */
+.ccca {
+  margin-top: 30px;
+  text-align: center;
+}
+.ccc {
+  margin-top: 30px;
+  text-align: center;
+}
+/* .ddd {
+  text-align: center;
+}
+.eee {
+  text-align: center;
+} */
