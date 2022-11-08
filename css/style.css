@@ -1,7 +1,13 @@
+html {
+  background: url(../images/html-picture.jpg);
+  background-size: cover;
+  background-attachment:fixed;
+}
+
 body {
   line-height: 1.8;
   /* background: url(../images/bg/単色ピンク.png); */
-  background-color: #a015009a;
+  /* background-color: #a015009a; */
   /* font-family: 'Hachi Maru Pop', cursive; */
 }
 
@@ -116,6 +122,7 @@ dt {
 
 .caption {
   background-color: #a01400;
+  text-align: center;
   color: #fff;
   /* margin-bottom: 2em; */
 }
@@ -127,7 +134,7 @@ footer {
   padding: 15px;
   color: #fff;
   text-align: center;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 #book{
